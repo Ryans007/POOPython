@@ -1,0 +1,3 @@
+class AccountException(Exception):
+    pass
+
